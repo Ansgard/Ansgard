@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1149480029
+CRC: 1414145277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79891c123d063f3676da46e6dcbc842b
+    Hash: 385e579fce2f86315f1f62b30e11c7d8
   TypeTreeHash:
     serializedVersion: 2
     Hash: eda0d90795307328f4c6085b3968a90e
@@ -36,6 +36,7 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
+- Assets/_Prefabs/ProductPrefabs/Sinks/SI0007_ELA_82000 (test bundles).prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/SI0001_AD-82000.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/SI0007_ELA_82000.prefab
 Dependencies:
