@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1414145277
+CRC: 2915749357
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 385e579fce2f86315f1f62b30e11c7d8
+    Hash: 3253eed767352a995b068fc0ed248460
   TypeTreeHash:
     serializedVersion: 2
     Hash: eda0d90795307328f4c6085b3968a90e
@@ -36,9 +36,9 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/_Prefabs/ProductPrefabs/Sinks/SI0007_ELA_82000 (test bundles).prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/SI0001_AD-82000.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/SI0007_ELA_82000.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/RAD0001_Crazy_New_Product.prefab
 Dependencies:
 - D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
 - D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
