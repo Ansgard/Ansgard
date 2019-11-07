@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3052023330
+CRC: 2036421493
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c6822a5ab9eab6f7e1ac23b17a9c084a
+    Hash: cadc8218c33248e551f9f4d247cf8471
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 157a4df2e72fca8c015946c5ccc090ff
+    Hash: ab15043dcbfb538f7e6a7285d6d410d3
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -29,14 +29,12 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1525d0271e688124a89c38774754188e, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: bc6a738e9da977c4cb576fd5b17b6073, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
 Assets:
-- Assets/_Prefabs/ProductPrefabs/Sinks/Official/DSG-82000.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSG_Series.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSWD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
-- Assets/_Prefabs/ProductPrefabs/Sinks/Official/DSWD-82000.prefab
 Dependencies: []
