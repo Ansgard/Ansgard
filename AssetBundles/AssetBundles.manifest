@@ -1,12 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1603965035
+CRC: 1332106017
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: placeableobjectprefabs/test
-      Dependencies:
-        Dependency_0: placeableobjectprefabs/soap_dispensers
-        Dependency_1: placeableobjectprefabs/faucets
+      Dependencies: {}
     Info_1:
       Name: placeableobjectprefabs/hand_dryers
       Dependencies: {}
