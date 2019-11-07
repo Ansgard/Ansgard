@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 560828814
+CRC: 2049627233
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4b09b23bbe744e1b64733051fb7f3682
+    Hash: e54f36d20b6fafcbfc72dee91a86ef3b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 15439a397bec9118d76e4541bbcfaa96
+    Hash: ea4ede481d2097d84bc0028a282539c1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -42,6 +42,7 @@ ClassTypes:
 Assets:
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/AD_82000.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/DSG-82000.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/DSWD-82000.prefab
 Dependencies:
 - D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/hand_dryers
