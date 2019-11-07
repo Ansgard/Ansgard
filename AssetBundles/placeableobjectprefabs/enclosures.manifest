@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 973322469
+CRC: 848779558
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 92be6362446e9da83210ed4501e9c00f
+    Hash: c94b172f5d84b01dcaa111d6dd77ec5a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e70ff1a175ba3f8d10988cd7c953982e
+    Hash: 5a3082b1ea33ac6a3c5adf3d672bdfd5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -14,12 +14,6 @@ ClassTypes:
 - Class: 4
   Script: {instanceID: 0}
 - Class: 21
-  Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 33
   Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
@@ -35,6 +29,4 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Enclosure/AD_Enclosure.prefab
 - Assets/_Prefabs/ProductPrefabs/Enclosure/Null Enclosure.prefab
 - Assets/_Prefabs/ProductPrefabs/Enclosure/DSG_DSWD_Enclosure.prefab
-- Assets/_Prefabs/ProductPrefabs/Enclosure/Old/Normal Enclosure.prefab
-- Assets/_Prefabs/ProductPrefabs/Enclosure/Old/Straight Enclosure.prefab
 Dependencies: []
