@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2311991943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 157763b4a783f2231fc849528476a8cf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bbc42a355bae5291950cbb93456ee150
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Grates/Grate Null.prefab
+- Assets/_Prefabs/ProductPrefabs/Grates/DSWD-82000_Grate.prefab
+Dependencies: []

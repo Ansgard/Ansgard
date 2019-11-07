@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2228937896
+CRC: 314254030
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -16,9 +16,24 @@ AssetBundleManifest:
         Dependency_0: placeableobjectprefabs/hand_dryers
         Dependency_1: placeableobjectprefabs/soap_dispensers
         Dependency_2: placeableobjectprefabs/faucets
+        Dependency_3: placeableobjectprefabs/babychangingstationstyle
+        Dependency_4: placeableobjectprefabs/enclosures
     Info_3:
       Name: placeableobjectprefabs/soap_dispensers
       Dependencies: {}
     Info_4:
       Name: placeableobjectprefabs/faucets
+      Dependencies: {}
+    Info_5:
+      Name: placeableobjectprefabs/babychangingstationstyle
+      Dependencies:
+        Dependency_0: placeableobjectprefabs/changingtable
+    Info_6:
+      Name: placeableobjectprefabs/changingtable
+      Dependencies: {}
+    Info_7:
+      Name: placeableobjectprefabs/enclosures
+      Dependencies: {}
+    Info_8:
+      Name: placeableobjectprefabs/grates
       Dependencies: {}

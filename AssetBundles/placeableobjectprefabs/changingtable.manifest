@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 3978629865
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfdfd4b514ab624c6492b8e3d2871ad3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5fb2fa2acff2b5b46297628725f4304f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Changing Table/Changing_Table.prefab
+Dependencies: []

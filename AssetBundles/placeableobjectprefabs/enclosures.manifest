@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2039653939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfdb3e00727903f15d9bff441ec1123e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e70ff1a175ba3f8d10988cd7c953982e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Enclosure/Null Enclosure.prefab
+- Assets/_Prefabs/ProductPrefabs/Enclosure/Normal Enclosure.prefab
+- Assets/_Prefabs/ProductPrefabs/Enclosure/Straight Enclosure.prefab
+Dependencies: []
