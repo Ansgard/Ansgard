@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 2414231151
+CRC: 3157429087
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca873a4b96c241e801c406538d1fd250
+    Hash: e0a302a0a7940956cbef0625daad0442
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3fa1b458b91f62f99d122eea8752471f
+    Hash: 157a4df2e72fca8c015946c5ccc090ff
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -39,9 +39,4 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/DSG-82000.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/DSWD-82000.prefab
-Dependencies:
-- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/hand_dryers
-- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
-- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
-- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/babychangingstationstyle
-- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
+Dependencies: []
