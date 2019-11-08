@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1436938745
+CRC: 831686134
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a4daeaa1ed0a56b02a5e2c2332a38b47
+    Hash: 83310224a920cab691ec488d1addf209
   TypeTreeHash:
     serializedVersion: 2
-    Hash: e9b3f6833143240de56fc7005adfb1e8
+    Hash: 9f03e0b1fc9c27acd2ee5abaa996a00a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,10 +25,14 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1525d0271e688124a89c38774754188e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bc6a738e9da977c4cb576fd5b17b6073, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
@@ -37,4 +41,8 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSG_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSWD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
-Dependencies: []
+Dependencies:
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/hand_dryers
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
