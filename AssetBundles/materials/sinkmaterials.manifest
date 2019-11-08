@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 4172257059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0abce65ebb4e54ab87171419a5314e75
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/ProductModels/Sinks/Sink-Swap/SinkMat_CorianCanvas_1.mat
+- Assets/Art/ProductModels/Sinks/Sink-Swap/SinkMat_DeepNightSky_2.mat
+Dependencies: []
