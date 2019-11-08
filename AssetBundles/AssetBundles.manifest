@@ -1,36 +1,36 @@
 ManifestFileVersion: 0
-CRC: 1574398164
+CRC: 3803094690
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: placeableobjectprefabs/test
-      Dependencies: {}
+      Name: placeableobjectprefabs/babychangingstationstyle
+      Dependencies:
+        Dependency_0: placeableobjectprefabs/changingtable
     Info_1:
-      Name: placeableobjectprefabs/hand_dryers
+      Name: placeableobjectprefabs/test
       Dependencies: {}
     Info_2:
       Name: placeableobjectprefabs/sinks
       Dependencies:
-        Dependency_0: placeableobjectprefabs/hand_dryers
-        Dependency_1: placeableobjectprefabs/soap_dispensers
-        Dependency_2: placeableobjectprefabs/faucets
-        Dependency_3: placeableobjectprefabs/enclosures
+        Dependency_0: placeableobjectprefabs/enclosures
+        Dependency_1: placeableobjectprefabs/hand_dryers
+        Dependency_2: placeableobjectprefabs/soap_dispensers
+        Dependency_3: placeableobjectprefabs/faucets
     Info_3:
-      Name: placeableobjectprefabs/soap_dispensers
+      Name: placeableobjectprefabs/enclosures
       Dependencies: {}
     Info_4:
-      Name: placeableobjectprefabs/faucets
+      Name: placeableobjectprefabs/grates
       Dependencies: {}
     Info_5:
-      Name: placeableobjectprefabs/babychangingstationstyle
-      Dependencies:
-        Dependency_0: placeableobjectprefabs/changingtable
+      Name: placeableobjectprefabs/hand_dryers
+      Dependencies: {}
     Info_6:
       Name: placeableobjectprefabs/changingtable
       Dependencies: {}
     Info_7:
-      Name: placeableobjectprefabs/enclosures
+      Name: placeableobjectprefabs/soap_dispensers
       Dependencies: {}
     Info_8:
-      Name: placeableobjectprefabs/grates
+      Name: placeableobjectprefabs/faucets
       Dependencies: {}
