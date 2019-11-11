@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 393431046
+CRC: 1732465283
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,33 +7,33 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: placeableobjectprefabs/changingtable
     Info_1:
-      Name: placeableobjectprefabs/test
+      Name: materials/sinkmaterials
       Dependencies: {}
     Info_2:
+      Name: placeableobjectprefabs/test
+      Dependencies: {}
+    Info_3:
       Name: placeableobjectprefabs/sinks
       Dependencies:
         Dependency_0: placeableobjectprefabs/enclosures
         Dependency_1: placeableobjectprefabs/hand_dryers
         Dependency_2: placeableobjectprefabs/soap_dispensers
         Dependency_3: placeableobjectprefabs/faucets
-    Info_3:
+    Info_4:
       Name: placeableobjectprefabs/enclosures
       Dependencies: {}
-    Info_4:
+    Info_5:
       Name: placeableobjectprefabs/grates
       Dependencies: {}
-    Info_5:
+    Info_6:
       Name: placeableobjectprefabs/hand_dryers
       Dependencies: {}
-    Info_6:
+    Info_7:
       Name: placeableobjectprefabs/changingtable
       Dependencies: {}
-    Info_7:
+    Info_8:
       Name: placeableobjectprefabs/soap_dispensers
       Dependencies: {}
-    Info_8:
-      Name: placeableobjectprefabs/faucets
-      Dependencies: {}
     Info_9:
-      Name: materials/sinkmaterials
+      Name: placeableobjectprefabs/faucets
       Dependencies: {}

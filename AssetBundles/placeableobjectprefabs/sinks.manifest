@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1644042030
+CRC: 1563946233
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 98104690aeb79610c517a9f644a10bd2
+    Hash: 8939b5a0aadbe94df679c0935c17bb89
   TypeTreeHash:
     serializedVersion: 2
     Hash: b74d06a1f65ccf5666487650ff01af12
@@ -42,7 +42,7 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSWD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
 Dependencies:
-- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
-- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/hand_dryers
-- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
-- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/hand_dryers
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
