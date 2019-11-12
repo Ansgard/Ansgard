@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1563946233
+CRC: 3609868821
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8939b5a0aadbe94df679c0935c17bb89
+    Hash: 9cc8321e4ae1ae46c89740fab4ca030e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b74d06a1f65ccf5666487650ff01af12
+    Hash: 4dceb1ca22f9425a2e77716f952a9239
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,34 +15,20 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 23
-  Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
-- Class: 33
-  Script: {instanceID: 0}
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
-- Class: 114
-  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1525d0271e688124a89c38774754188e, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: bc6a738e9da977c4cb576fd5b17b6073, type: 3}
+  Script: {fileID: 11500000, guid: 857d8f7a78c9c6e4593b553ea886f3fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34abf79a7e9a6ba49a7ce617e64b24b1, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 137
   Script: {instanceID: 0}
 Assets:
-- Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSG_Series.prefab
-- Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/DSWD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
-Dependencies:
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/hand_dryers
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/soap_dispensers
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/faucets
+Dependencies: []

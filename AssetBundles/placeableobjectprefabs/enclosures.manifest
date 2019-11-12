@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1292090738
+CRC: 1995189341
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 07713118adecd659a69c40a98fe6a0a0
+    Hash: b178c1c20e926c9dc3ddfeb9af3c80fd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a940608d753e5c10b06fb528a49356d4
+    Hash: da393f1220163a90054348e803239057
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,10 +17,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
 - Class: 115
   Script: {instanceID: 0}
-- Class: 137
-  Script: {instanceID: 0}
 Assets:
-- Assets/_Prefabs/ProductPrefabs/Enclosure/AD_Enclosure.prefab
 - Assets/_Prefabs/ProductPrefabs/Enclosure/Null Enclosure.prefab
-- Assets/_Prefabs/ProductPrefabs/Enclosure/DSG_DSWD_Enclosure.prefab
 Dependencies: []
