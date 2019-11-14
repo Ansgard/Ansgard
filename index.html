@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en-us">
   <head>
 	<meta charset="utf-8">
@@ -6,7 +6,7 @@
 	<title>Unity WebGL Player | Sloan CPQ Visualizer</title>
 	<script src="Build/UnityLoader.js"></script>
 	<script>
-        var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Sloan-Configurator.json");
+	  var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Sloan-Configurator.json");
       var isLoaded = false;
       var quickChoice = new Array();
 		var savedScreenshot = "";
@@ -84,6 +84,7 @@
   </head>
 	<header>
 	
+
 <form action="#" onsubmit="OnClickItem(key.value);return false">
   Test key:
   <input type="text" name="key">
@@ -96,6 +97,7 @@
   <input type="submit">
 </form>
 -->
+
 	<ul>
 		<div class="products" onclick="OnClickItem('SinkModel-1')"><a href="#">Sink 1</a></div>
 		<div class="products" onclick="OnClickItem('SinkModel-2')"><a href="#">Sink 2</a></div>
