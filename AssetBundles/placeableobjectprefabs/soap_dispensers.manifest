@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 212287477
+CRC: 1663501343
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e95278d97ebdda5324a58311e0a13205
+    Hash: d3a98116625902766d38dae982e5f9f5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8d19831ba91848933b9b7e41fdec078f
@@ -32,6 +32,12 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0008_Fuse_SD.prefab
 - Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0002_ESD-500.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0005_ESD_800.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0007_ESD_1500.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0004_ESD_700.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0003_ESD_600.prefab
 - Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0001_ESD-2000.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0006_ESD_2100.prefab
 Dependencies: []

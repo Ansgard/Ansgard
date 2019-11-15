@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2315092995
+CRC: 636898972
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 24b5b642dfb0f9e8a3cf9258cef91668
+    Hash: c24faf3d3beee445ca94227b9703ff9b
   TypeTreeHash:
     serializedVersion: 2
     Hash: ed08fb0701460962c6b482bdc80c2676
@@ -33,4 +33,4 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Baby Changing Table/BabyChangingTable.prefab
 - Assets/_Prefabs/ProductPrefabs/Baby Changing Table/BabyChanging Table Null.prefab
 Dependencies:
-- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/changingtable
+- D:/workspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/changingtable
