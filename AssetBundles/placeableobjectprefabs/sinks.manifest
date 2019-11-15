@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3115138453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77710e9337b0953b0996ffbcd2e068db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 92316cce1f87ad54213d1e2603336008
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1525d0271e688124a89c38774754188e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 857d8f7a78c9c6e4593b553ea886f3fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34abf79a7e9a6ba49a7ce617e64b24b1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Sinks/Official/Updated/AD_Series.prefab
+Dependencies: []
