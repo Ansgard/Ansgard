@@ -38,7 +38,7 @@
 	  // handles stretching the left side of the sink
 	  function LeftStretch(value)
 	  {
-		gameInstance.SendMessage ("Item Controller","LeftStretch", value);
+			gameInstance.SendMessage ("Item Controller","OnClickItem", "LeftCounterLength-" + value);
 	  }
 	  
 	  // handles stretching the right side of the sink	
@@ -46,6 +46,17 @@
 	  {
 			gameInstance.SendMessage ("Item Controller","OnClickItem", "RightCounterLength-" + value);
 	  }
+	  
+	  function Stretch(value)
+	  {
+			gameInstance.SendMessage ("Item Controller","OnClickItem", "SinkLength-" + value);
+	  }
+	  
+	  function BasinLength(value)
+	  {
+			gameInstance.SendMessage ("Item Controller","OnClickItem", "BasinLength-" + value);
+	  }
+
 	  
     function firstChoice()
     {
@@ -91,36 +102,32 @@
   <input type="submit">
 </form>
 
-<form action="#" onsubmit="RightStretch(rightstretch.value);return false">
-  Right Stretch (cm 0-50):
-  <input type="text" name="rightstretch">
-  <input type="submit">
-</form>
-
 <h>Length adjustments</h>
-<form action="#" onsubmit="OnClickItem(RightCounterLength-key.value);return false">
+<form action="#" onsubmit="RightStretch(rightstretch.value);return false">
   Right counter length (cm 0-50):
   <input type="text" name="rightstretch">
   <input type="submit">
 </form>
 
-<form action="#" onsubmit="OnClickItem(LeftCounterLength-key.value);return false">
+<form action="#" onsubmit="LeftStretch(rightstretch.value);return false">
   Left counter length (cm 0-50):
   <input type="text" name="rightstretch">
   <input type="submit">
 </form>
 
-<form action="#" onsubmit="OnClickItem(SinkLength-key.value);return false">
+<form action="#" onsubmit="Stretch(rightstretch.value);return false">
   Total sink length (cm 0-50):
   <input type="text" name="rightstretch">
   <input type="submit">
 </form>
 
-<form action="#" onsubmit="OnClickItem(BasinLength-key.value);return false">
+<form action="#" onsubmit="BasinLength(rightstretch.value);return false">
   Basin length (cm 0-50):
   <input type="text" name="rightstretch">
   <input type="submit">
 </form>
+
+
 
 
 
