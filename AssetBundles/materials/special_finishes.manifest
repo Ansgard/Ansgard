@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1990976198
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f3087094aa68d62e8fd1cf6b0f00962
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/SpecialFinishes/SpecialFinishes-chrome_Chrome.mat
+- Assets/Art/Materials/SpecialFinishes/SpecialFinishes-brushednickle_Nickle.mat
+- Assets/Art/Materials/SpecialFinishes/SpecialFinishes-graphite_Graphite.mat
+- Assets/Art/Materials/SpecialFinishes/SpecialFinishes-brushedstainless_Steel.mat
+- Assets/Art/Materials/SpecialFinishes/SpecialFinishes-polishedbrass_Brass.mat
+Dependencies: []

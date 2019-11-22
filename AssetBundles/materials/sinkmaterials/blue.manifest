@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2792475990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3b9d23ef7eb21af7405b12f8a7ae67c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-mineral_Corian-Mineral.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-eveningprima_Corian-Evening-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-laguna_Corian-Laguna.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-bluepebble_Corian-Blue-Pebble.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-elderberry_Corian-Elderberry.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-juniper_Corian-Juniper.mat
+Dependencies: []

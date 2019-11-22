@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 206516396
+CRC: 1091137422
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c874bdc2906b80d1e47c2fa4009098db
+    Hash: 792d8f3aae9f4d4db4a12e9cbc2f15f7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 716ee0214e7b88dddf2b5f11c9f3b3a9
@@ -30,5 +30,6 @@ ClassTypes:
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/_Prefabs/ProductPrefabs/Hand Dryers/HD0001_EHD-510.prefab
-Dependencies: []
+- Assets/_Prefabs/ProductPrefabs/Hand Dryers/EHD-510.prefab
+Dependencies:
+- D:/workspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes

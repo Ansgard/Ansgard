@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1663501343
+CRC: 481010636
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d3a98116625902766d38dae982e5f9f5
+    Hash: be513bc89179db8ddabe11f87d8c2a17
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8d19831ba91848933b9b7e41fdec078f
+    Hash: 716ee0214e7b88dddf2b5f11c9f3b3a9
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,19 +25,17 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 65
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0008_Fuse_SD.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0002_ESD-500.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0005_ESD_800.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0007_ESD_1500.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0004_ESD_700.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0003_ESD_600.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0001_ESD-2000.prefab
-- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/SD0006_ESD_2100.prefab
-Dependencies: []
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_700.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_800.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_2100.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_2000.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_600.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_500.prefab
+- Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_1500.prefab
+Dependencies:
+- D:/workspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes

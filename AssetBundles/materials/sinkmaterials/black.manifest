@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 601550520
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d292c3b924302b2e52fa57df9953215
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-stellarnight_Silestone-Stellar-Night.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-jetblack_Caesarstone-Jet-Black.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-marengo_Silestone-Marengo.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-iconicblack_Silestone-Iconic-Black.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-charcoalsoapstone_Silestone-Charcoal-Soapstone.mat
+Dependencies: []

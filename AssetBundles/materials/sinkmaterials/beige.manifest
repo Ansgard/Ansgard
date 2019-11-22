@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 3936385135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 79021da3463b6892e5eb52991268c5c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-abalone_Corian-Abalone.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sandalwood_Corian-Sandalwood.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-neutralconcrete_Corian-Neutral-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-tumbleweed_Corian-Tumbleweed.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-canvas_Corian-Canvas.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-whippedcream_Corian-Whipped-Cream.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-duneprima_Corian-Dune-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sahara_Corian-Sahara.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-beechnuwood_Corian-Beech-Nuwood.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-moorlandfog_Caesarstone-Moorland-Fog.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-saffron_Corian-Saffron.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-ecru_Corian-Ecru.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-savannah_Corian-Savannah.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-ricepaper_Corian-Rice-Paper.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-whisper_Corian-Whisper.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-topusconcrete_Caesarstone-Topus-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-clamshell_Corian-Clam-Shell.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-tuscandawn_Caesaratone-Tuscan-Dawn.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-burledbirch_Corian-Burled-Birch.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-witchhazel_Corian-Witch Hazel.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-raffia_Corian-Raffia.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-fossil_Corian-Fossil.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-linen_Corian-Linen.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-excava_Caesaratone-Excava.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sagebrush_Corian-Sagebrush.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-aurora_Corian-Aurora.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-hazelnut_Corian-Hazelnut.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-neutralaggregate_Corian-Neutral-Aggregate.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sandstone_Corian-Sandstone.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-elegantgray_Corian-Elegant-Gray.mat
+Dependencies: []

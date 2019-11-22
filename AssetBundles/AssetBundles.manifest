@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 2020018898
+CRC: 3959858898
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -7,29 +7,96 @@ AssetBundleManifest:
       Dependencies:
         Dependency_0: placeableobjectprefabs/changingtable
     Info_1:
-      Name: placeableobjectprefabs/test
-      Dependencies: {}
-    Info_2:
       Name: placeableobjectprefabs/sinks
-      Dependencies: {}
-    Info_3:
+      Dependencies:
+        Dependency_0: placeableobjectprefabs/enclosures
+        Dependency_1: materials/sinkmaterials/amberorange
+        Dependency_2: materials/sinkmaterials/beige
+        Dependency_3: placeableobjectprefabs/bag_hook
+    Info_2:
       Name: placeableobjectprefabs/enclosures
       Dependencies: {}
-    Info_4:
+    Info_3:
       Name: placeableobjectprefabs/grates
       Dependencies: {}
-    Info_5:
+    Info_4:
       Name: placeableobjectprefabs/hand_dryers
-      Dependencies: {}
-    Info_6:
+      Dependencies:
+        Dependency_0: materials/special_finishes
+    Info_5:
       Name: placeableobjectprefabs/changingtable
       Dependencies: {}
-    Info_7:
+    Info_6:
       Name: placeableobjectprefabs/soap_dispensers
-      Dependencies: {}
-    Info_8:
+      Dependencies:
+        Dependency_0: materials/special_finishes
+    Info_7:
       Name: placeableobjectprefabs/faucets
+      Dependencies:
+        Dependency_0: materials/special_finishes
+    Info_8:
+      Name: materials/special_finishes
       Dependencies: {}
     Info_9:
-      Name: materials/sinkmaterials
+      Name: materials/laminatecolors
+      Dependencies: {}
+    Info_10:
+      Name: materials/sinkmaterials/amberorange
+      Dependencies: {}
+    Info_11:
+      Name: materials/sinkmaterials/gray
+      Dependencies: {}
+    Info_12:
+      Name: materials/sinkmaterials/offwhite
+      Dependencies: {}
+    Info_13:
+      Name: materials/sinkmaterials/cream
+      Dependencies: {}
+    Info_14:
+      Name: materials/sinkmaterials/lightveined
+      Dependencies: {}
+    Info_15:
+      Name: materials/sinkmaterials/brown
+      Dependencies: {}
+    Info_16:
+      Name: materials/sinkmaterials/blue
+      Dependencies: {}
+    Info_17:
+      Name: materials/sinkmaterials/yellowred
+      Dependencies: {}
+    Info_18:
+      Name: materials/sinkmaterials/green
+      Dependencies: {}
+    Info_19:
+      Name: materials/sinkmaterials/white
+      Dependencies: {}
+    Info_20:
+      Name: materials/sinkmaterials/darkgranular
+      Dependencies: {}
+    Info_21:
+      Name: materials/sinkmaterials/beige
+      Dependencies: {}
+    Info_22:
+      Name: materials/sinkmaterials/grey
+      Dependencies: {}
+    Info_23:
+      Name: materials/sinkmaterials/yellowgold
+      Dependencies: {}
+    Info_24:
+      Name: materials/sinkmaterials/black
+      Dependencies: {}
+    Info_25:
+      Name: materials/sinkmaterials/darkviened
+      Dependencies: {}
+    Info_26:
+      Name: materials/sinkmaterials/lightgranular
+      Dependencies: {}
+    Info_27:
+      Name: materials/sinkmaterials/grayblack
+      Dependencies: {}
+    Info_28:
+      Name: placeableobjectprefabs/trashcan
+      Dependencies: {}
+    Info_29:
+      Name: placeableobjectprefabs/bag_hook
       Dependencies: {}

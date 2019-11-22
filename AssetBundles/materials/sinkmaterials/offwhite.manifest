@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 2857494767
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dc479861b7013331957e8a416b9f5f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-vanilla_Corian-Vanilla.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-glacierwhite_Corian-Glacier-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-venarowhite_Corian-Venaro-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-bisque_Corian-Bisque.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-glacierice_Corian-Glacier-Ice.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-bone_Corian-Bone.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-whiteonyx_Corian-White-Onyx.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-antarctica_Corian-Antartica.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-cameowhite_Corian-Cameo-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-designerwhite_Corian-Designer-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-limestoneprima_Corian-Limestone-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-silverlinear_Corian-Silver-Linear.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sparklingwhite_Corian-Sparkling-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sandstorm_Corian-Sand-Storm.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-whitejasmine_Corian-White-Jasmine.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-nimbusprima_Corian-Nimbus-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sepialinear_Corian-Sepia-Linear.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-modernwhite_Corian-Modern-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-arcticice_Corian-Arctic-Ice.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-dominoterrazzo_Corian-Domino_Terrazzo.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-everest_Corian-Everest.mat
+Dependencies: []

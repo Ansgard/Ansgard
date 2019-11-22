@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2780836494
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 54069e78028a08b64fa0674c34874d32
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-calacattanatura_Corian-Quartz-Calacatta-Natura.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-bluecarrara_Corian-Quartz-Blue-Carrara.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-stratuswhite_Corian-Quartz-Stratus-White.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-coarsemarfil_Corian-Quartz-Coarse-Marfil.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-neve_Corian-Quartz-Neve.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-geogrigio_Corian-Quartz-Gio-Grigio.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-nebula_Corian-Quartz-Nebula.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-coarsecarrara_Corian-Quartz-Coarse-Carrara.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-venetiacream_Corian-Quartz-Venetia-Cream.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-oystergrigio_Corian-Quartz-Oyster-Grigio.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-biancomarmor_Corian-Quartz-Bianco-Marmor.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-marblemist_Corian-Quartz-Marble-Mist.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-ashengrey_Corian-Quartz-Ashen-Grey.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-biancodolomite_Corian-Quartz-Bianco-Dolomite.mat
+Dependencies: []
