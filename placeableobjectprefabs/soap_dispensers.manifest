@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3042512384
+CRC: 3998154202
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ca37dcf2d2c3cee3e8bd074463e2fd51
+    Hash: 0f97a617e3bb1e1c5d0e2a3f101cf72f
   TypeTreeHash:
     serializedVersion: 2
     Hash: b9b09ee8434b5d2078faae54429163ac
@@ -38,4 +38,4 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_500.prefab
 - Assets/_Prefabs/ProductPrefabs/Soap Dispensers/ESD_1500.prefab
 Dependencies:
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes

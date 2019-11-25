@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 912922274
+CRC: 480189614
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8e5f638bb3af9ddc5105c9fe3ffd7506
+    Hash: 83ee2591759e18c3f1509976124e2e52
   TypeTreeHash:
     serializedVersion: 2
     Hash: b9b09ee8434b5d2078faae54429163ac
@@ -60,4 +60,4 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Faucets/EAF_100.prefab
 - Assets/_Prefabs/ProductPrefabs/Faucets/ETF-800.prefab
 Dependencies:
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes

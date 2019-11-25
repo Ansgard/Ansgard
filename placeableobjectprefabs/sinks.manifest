@@ -3,7 +3,7 @@ CRC: 1277640669
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 88ce332675a470d4b510c8800d11dafe
+    Hash: e61e5cc09b5ae13bd84f1f53dfb713f4
   TypeTreeHash:
     serializedVersion: 2
     Hash: c39f9a6a3eff71d4fac7ec2a87c85c48
@@ -53,8 +53,8 @@ Assets:
 - Assets/_Prefabs/ProductPrefabs/Sinks/AD_Sink/AD_Series.prefab
 - Assets/_Prefabs/ProductPrefabs/Sinks/AD_Sink/AD_Series_Backup.prefab
 Dependencies:
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/beige
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/amberorange
-- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/bag_hook
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/beige
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/amberorange
+- D:/wkspaces/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/bag_hook
