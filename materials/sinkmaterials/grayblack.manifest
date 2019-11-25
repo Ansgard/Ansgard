@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2294810320
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3a6691ed10a5d4321e4974fdb112c83
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-silvergray_Corian-Silver-Gray.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-carbonaggregate_Corian-Carbon-Aggregate.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepblackquartz_Corian-Deep-Black-Quartz.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-ashconcrete_Corian-Ash-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepanthracite_Corian-Deep-Amthracite.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-pearlgray_Corian-Pearl-Gray.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-seafoam_Corian-Seafoam.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-silt_Corian-Silt.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-platnium_Corian-Platinum.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepcloud_Corian-Deep-Cloud.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-basaltterrazzo_Corian-Basalt-Terrazzo.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-milkyway_Corian-Milky-Way.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-graylite_Corian-Graylite.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-willow_Corian-Willow.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepnightsky_Corian-Deep-Night-Sky.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sliverite_Corian-Silverite.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-ashaggregate_Corian-Ash-Aggregate.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-raincloud_Corian-Rain-Cloud.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deeptitanium_Corian-Deep-Titanium.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-arrowroot_Corian-Arrowroot.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-silverbirch_Corian-Silver-Birch.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-dove_Corian-Dove.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-lavarock_Corian-Lava-Rock.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-grayonyx_Corian-Gray-Onyx.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-naturalgray_Corian-Natural-Gray.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-pebbleterrazzo_Corian-Pebble-Terrazzo.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-cosmosprima_Corian-Cosmos-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepnocturne_Corian-Deep-Nocturne.mat
+Dependencies: []

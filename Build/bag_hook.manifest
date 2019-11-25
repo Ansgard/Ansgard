@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1939662783
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f0b14d6ac19707c0061ee1bb97e24bb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 905b163ac0203f0e5cf4049bf36feaa1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Bag Hooks/Bag_Hook.prefab
+Dependencies: []

@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+<<<<<<< HEAD
+CRC: 1277640669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88ce332675a470d4b510c8800d11dafe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c39f9a6a3eff71d4fac7ec2a87c85c48
+=======
+CRC: 3001203000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ea7ad6f0c519f275213c72cad1f65fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 933389adc18d09579189204ed684d63a
+>>>>>>> 481c2495e0113f04b1dab88fcf817737b5cd6260
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1525d0271e688124a89c38774754188e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 857d8f7a78c9c6e4593b553ea886f3fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34abf79a7e9a6ba49a7ce617e64b24b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d1d71b8d54fd8d347a148ab32f8ee5c1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Sinks/DSWD_Sink/DSWD_Basin.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/DSG_Sink/DSG_Basin.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/AD_Sink/AD_Series.prefab
+- Assets/_Prefabs/ProductPrefabs/Sinks/AD_Sink/AD_Series_Backup.prefab
+Dependencies:
+<<<<<<< HEAD
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/beige
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/amberorange
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/bag_hook
+=======
+- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/enclosures
+- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes
+- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/beige
+- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/materials/sinkmaterials/amberorange
+- D:/Unity Projects/Sink-On-A-Wall/Assets/AssetBundles/placeableobjectprefabs/bag_hook
+>>>>>>> 481c2495e0113f04b1dab88fcf817737b5cd6260
