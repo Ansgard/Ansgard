@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4068519085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfbd54aa5ea0e42568be9829c563f03a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-raven_Caesarstone-Raven.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-geogianbluffs_Caesarstone-Georgian-Bluffs.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-airyconcrete_Caesarstone-Airy-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-coastalgrey_Caesarstone-Coastal-Grey.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-concrete_Caesarstone-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sleekconcrete_Caesarstone-Sleek-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-londonsky_Corian-Quartz-London-Sky.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-ruggedconcrete_Caesarstone-Rugged-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-statuariomaximus_Caesarstone-Statuario-Maximus.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-rawconcrete_Caesarstone-Raw-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-flannelgrey_Caesarstone-Flannel-Grey.mat
+Dependencies: []

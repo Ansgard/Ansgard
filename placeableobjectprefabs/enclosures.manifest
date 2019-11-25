@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2533524648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de51c8a115ddb5565d2ef412bcc2e183
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a99a493ba38c2a8ef4b104e4e4b33c02
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Enclosure/Null Enclosure.prefab
+Dependencies: []

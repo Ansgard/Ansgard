@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2887371013
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 441e44963e8bd571bf0137fd52072809
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-slategeo_Corian-Quartz-Slate-Geo.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-concretecarrara_Corian-Quartz-Concrete-Carrara.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-grigione_Corian-Quartz-Grigione.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-indigoswirl_Corian-Quartz-Indigo-Swirl.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-onyxcarrara_Corian-Quartz-Onyx-Carrara.mat
+Dependencies: []

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 426457892
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 692ab1d3b2a1f5317139cd930b0e1a04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-deepcaviar_Corian-Deep-Caviar.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-montblanc_Caesarstone-Montblanc.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-granola_Corian-Granola.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-matterhorn_Corian-Matterhorn.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-canyon_Corian-Canyon.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-mahoganynuwood_Corian-Mahogany-Nuwood.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-weatheredaggregate_Corian-Weathered-Aggregate.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-pacifica_Silestone-Pacifica.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-suede_Corian-Suede.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepstorm_Corian-Deep-Storm.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-cocoabrown_Corian-Cocoa-Brown.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-serenesage_Corian-Serene-Sage.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sorrel_Corian-Sorrel.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-riverbed_Corian-Riverbed.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepmink_Corian-Deep-Mink.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepbedrock_Corian-Deep-Bedrock.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-smokedriftprima_Corian-Smoke-Drift-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-sonora_Corian-Sonora.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-carbonconcrete_Corian-Carbon-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-maui_Corian-Maui.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-pine_Corian-Pine.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-weatheredconcrete_Corian-Weathered-Concrete.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-siennaridge_Silestone-SiennaRidge.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-cocoaprima_Corian-Cocoa-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-windsweptprima_Corian-Windswept-Prima.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepespresso_Corian-Deep-Espresso.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-deepsable_Corian-Deep-Sable.mat
+Dependencies: []

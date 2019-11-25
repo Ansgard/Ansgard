@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 912922274
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e5f638bb3af9ddc5105c9fe3ffd7506
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b9b09ee8434b5d2078faae54429163ac
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF-700.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF-660.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF_350-Ext.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EBF_85.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/SF-2400.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EFX_250.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF_500.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/SF-2100-Ext.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EBF-187.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF_700.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF_250.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/SF-2300.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF_900.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EFX_177.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EBF_650.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF_610.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF 770-4.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF-80.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF-200-Ext.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF_880.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EFX_600.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EFX_177-Ext.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/SF-2100.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EFX_300.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EFX_800.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/SF-2200.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF_350.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/EAF_100.prefab
+- Assets/_Prefabs/ProductPrefabs/Faucets/ETF-800.prefab
+Dependencies:
+- D:/Unity projects/Sink-On-A-Wall/Assets/AssetBundles/materials/special_finishes

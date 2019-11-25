@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 2864603227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6f732e30d0d8689d2443bd59a0b5ac06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a62242e9641c766d76b9768efb8aa65a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 651552629e4ac324095cd4216ad1d2ca, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Prefabs/ProductPrefabs/PaperTowelHolders/Paper_Towel_Holder.prefab
+Dependencies: []

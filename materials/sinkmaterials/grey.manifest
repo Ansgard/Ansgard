@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1603364851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 21106b932a5afd4dcbc5a2e74a242be0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fe397485c3cec1106b49e9ff95e8f8a2
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Art/Materials/Sinks/SinkMaterial-cemento_Silestone-Cemento.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-riverbed_Silestone-Riverbed.mat
+- Assets/Art/Materials/Sinks/SinkMaterial-greyexpo_Silestone-Grey-Expo.mat
+Dependencies: []
